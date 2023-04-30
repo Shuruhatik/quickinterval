@@ -1,0 +1,53 @@
+{
+  "name": "quickinterval",
+  "version": "1.0.2",
+  "description": "QuickInterval provides an easy way to create and manage intervals, with the ability to pause, resume, and adjust the delay dynamically.",
+  "author": "shuruhatik",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "quickinterval",
+    "super interval",
+    "setinterval",
+    "intervals",
+    "callbacks",
+    "pause",
+    "resume",
+    "reset",
+    "delay",
+    "Node.js",
+    "timers",
+    "time management",
+    "programming",
+    "web development",
+    "event handling",
+    "asynchronous programming",
+    "scheduling",
+    "timeouts",
+    "interval management",
+    "flexible",
+    "easy-to-use",
+    "dynamic",
+    "changeable",
+    "time-based",
+    "time-driven",
+    "execution",
+    "time-sensitive",
+    "time-based events",
+    "timing",
+    "interval control",
+    "time manipulation",
+    "quick",
+    "quickly"
+  ],
+  "dependencies": {
+    "@types/node": "^18.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shuruhatik/quickinterval.git"
+  }
+}
